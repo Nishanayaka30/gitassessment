@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Initial commit
-=======
-# gitassessment
->>>>>>> origin/main
+Bug fix in progress
